@@ -1,0 +1,1 @@
+lst =[print('Hello World') for x in range(int(input('How many times you want to print? ')))]

@@ -1,1 +1,1 @@
-l=[print('Hello World') for x in range(6)]
+l=[print('Hello World') for x in range(5)]
